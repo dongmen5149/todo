@@ -44,3 +44,17 @@
 <br>1. 알고리즘 문제풀이 javascript로 풀려고 노력해보자
 <br>2. 코테1차 준비 우선으로 하기위해 알고리즘에 시간분배 많이하기
 <br>3. node_react 유튜브 프로젝트 빨리끝내기
+
+<h1>2021/11/04</h1>
+<h2>todo</h2>
+<br>1. 알고리즘 문제풀이
+<br>2. react_node(youtube_project)
+<br>3. 운동
+<h2>result</h2>
+<li>알고리즘문제풀이(O) => 이해안갔던 1번, 2번 풀이완료</li>
+<li>node_react(O) => 로그인 로그아웃 boiler-plate 다시 해봄</li>
+<li>운동(O)</li>
+<h2>회고</h2>
+<br>1. 알고리즘 문제풀이 javascript로 하는 구현문제를 내일 다 풀어보기
+<br>2. node_react 에서 사용한 boiler-plate에 대한 이해 확실히하고 넘어가기
+<br>3. 늦잠 자지않기. (수면 시간 일정하게 항상!)
