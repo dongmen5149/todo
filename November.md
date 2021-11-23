@@ -158,3 +158,19 @@
 <li>알바(O)</li>
 <h2>회고</h2>
 <br>1. 월요일 부터 다시 수면시간 조절하기
+
+<h1>2021/11/22</h1>
+<h2>todo</h2>
+<br>1. node_react(boiler_plate css)
+<br>2. 알고리즘 문제풀이
+<br>3. 운동
+<br>4. javascript
+<h2>result</h2>
+<li>node_react(O) => css Antd class=>function으로 바꾸는 부분 구현중</li>
+<li>알고리즘 문제풀이(X) => node_react에 시간을 너무 많이 할애함</li>
+<li>운동(O)</li>
+<li>javascript(X) => node_react에 시간많이할애하고 공부시간 감소해서 못함</li>
+<h2>회고</h2>
+<br>1. node_react 프로젝트 관련 Antd 컴포넌트 사용 익숙해지기
+<br>2. 계획표대로 잘 안되면 계획표 수정하기
+<br>3. 쉬는시간은 항상 절대로 1시간이상 넘지 않기
