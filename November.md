@@ -187,3 +187,14 @@
 <h2>회고</h2>
 <br>1. 오프스터디때 못풀었던 문제 다시 풀어보기(스터디 문제 다 풀면)
 <br>2. 수면시간 지키기(계속 안지켜짐)
+
+<h1>2021/11/25</h1>
+<h2>todo</h2>
+<br>1. node_react(boiler_plate css수정)
+<br>2. 운동
+<h2>result</h2>
+<li>node_react(boiler_plate css수정)(O) => 거의 완료</li>
+<li>운동(O)</li>
+<h2>회고</h2>
+<br>1. boiler_plate 내일까지 마무리하기
+<br>2. 알고리즘 문제풀이 내일까지 다 마무리
