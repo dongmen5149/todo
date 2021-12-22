@@ -97,3 +97,13 @@
     ## 회고
 1. 포트폴리오 pdf파일로 만들기
 2. youtubeProject 내일까지 끝내보기
+
+# 2021/12/22
+## todo
+1. youtubeProject
+2. 운동
+    ## result
+* youtubeProject(O)
+* 운동(X) => 시간부족
+    ## 회고
+1. youtubeproject 완료하기
