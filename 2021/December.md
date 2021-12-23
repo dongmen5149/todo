@@ -107,3 +107,14 @@
 * 운동(X) => 시간부족
     ## 회고
 1. youtubeproject 완료하기
+
+# 2021/12/23
+## todo
+1. youtubeProject
+2. 운동
+    ## result
+* youtubeProject(O)
+* 운동(O)) => 시간부족
+    ## 회고
+1. PDF파일로 포트폴리오 만들기
+2. youtubeProject 완료 꼭하기
