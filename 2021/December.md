@@ -118,3 +118,11 @@
     ## 회고
 1. PDF파일로 포트폴리오 만들기
 2. youtubeProject 완료 꼭하기
+
+# 2021/12/27
+## todo
+1. youtubeProject
+    ## result
+* youtubeProject(O)
+    ## 회고
+1. youtubeProject 오류 수정하기
