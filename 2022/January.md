@@ -24,3 +24,17 @@
 2. CRUD 구현 최대한 완성 해보기
 3. 기술면접 대비 공부 블로깅하기
 
+# 2022/01/11
+## todo
+1. 이력서작성
+2. youtube_project 수정
+3. CRUD 만들기
+    ## result
+* 이력서작성(O) => 완성
+* youtube_project => Read.me 완성
+* CRUD => client단 완성
+    ## 회고
+1. 신입파트부터 원티드 지원 해보기
+2. CRUD 구현 server단 완성
+3. youtube_project 배포공부
+
