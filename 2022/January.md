@@ -38,3 +38,14 @@
 2. CRUD 구현 server단 완성
 3. youtube_project 배포공부
 
+# 2022/01/12
+## todo
+1. 원티드 지원
+2. CRUD 만들기
+    ## result
+* 원티드 지원(O) => 10군대 지원
+* CRUD(X) => 시간관리 X
+    ## 회고
+1. 원티드 지원 내일 한번더
+2. CRUD 구현 server단 완성
+3. typeScript 강의 수강
