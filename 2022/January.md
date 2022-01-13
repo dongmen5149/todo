@@ -49,3 +49,17 @@
 1. 원티드 지원 내일 한번더
 2. CRUD 구현 server단 완성
 3. typeScript 강의 수강
+
+# 2022/01/13
+## todo
+1. 원티드 지원
+2. CRUD 만들기
+3. TypeScript 공부
+    ## result
+* 원티드 지원(X) => 시간부족
+* CRUD(O) => "client완성, 서버단 몽고DB연결중"
+* TypeScript 공부(O) => 프론트단 설정중
+    ## 회고
+1. 원티드 지원하기, 사람인도 둘러보기
+2. CRUD 구현 server단 완성
+3. typeScript 강의 설정완료
