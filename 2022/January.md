@@ -63,3 +63,15 @@
 1. 원티드 지원하기, 사람인도 둘러보기
 2. CRUD 구현 server단 완성
 3. typeScript 강의 설정완료
+
+
+# 2022/01/18
+## todo
+1. typescript 수강
+2. CRUD server파트 만들기
+    ## result
+* CRUD(X) => 시간부족
+* TypeScript 공부(O) => 개발환경설정 완료
+    ## 회고
+1. typeScript 프론트단 완성시키기
+2. CRUD 구현 server단 완성
