@@ -75,3 +75,12 @@
     ## 회고
 1. typeScript 프론트단 완성시키기
 2. CRUD 구현 server단 완성
+
+# 2022/01/19
+## todo
+1. typescript 수강
+    ## result
+* TypeScript 공부(O) => 로그인 로그아웃 채널 페이지 완료
+    ## 회고
+1. typeScript 프론트단 완성시키기
+2. CRUD server단 일단 보류
