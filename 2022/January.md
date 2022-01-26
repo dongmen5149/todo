@@ -84,3 +84,13 @@
     ## 회고
 1. typeScript 프론트단 완성시키기
 2. CRUD server단 일단 보류
+
+# 2022/01/26
+## todo
+1. typescript 수강
+2. Review사이트 셋팅
+    ## result
+* TypeScript 공부(O) => 웹소켓연결까지 완료
+    ## 회고
+1. Slack클론코딩 완료
+2. Review사이트 몽고DB랑 연결
